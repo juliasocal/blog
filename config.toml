@@ -1,4 +1,4 @@
-baseURL = "https://notestomyfutureself.org"
+baseURL = "http://notestomyfutureself.org"
 languageCode = "en-us"
 title = "Notes to my future self"
 theme = "cactus-plus"
