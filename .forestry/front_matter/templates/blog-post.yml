@@ -3,7 +3,13 @@ label: Blog Post
 hide_body: false
 is_partial: false
 fields:
-- type: text
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: YYYY-MM-DD
+    required: true
+  default: 2018-11-14 08:00:00 +0000
 pages:
 - content/posts/sdfsd.md
 - content/posts/hello-forestry.md
