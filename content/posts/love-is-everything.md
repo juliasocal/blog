@@ -1,7 +1,7 @@
 +++
 date = "2018-11-14T08:00:00.000+00:00"
 description = "When we love something it is of value to us, and when something is of value to us we spend time with it, time enjoying it and time taking care of it. "
-tags = []
+tags = ["the road less traveled ", "future mom "]
 title = "Love Is Everything "
 
 +++
