@@ -10,6 +10,11 @@ fields:
   description: The title of the page
   config:
     required: true
+- type: text
+  default: ''
+  label: Description
+  name: description
+  description: Text that appears on the home page below title
 - type: datetime
   name: date
   label: Date
