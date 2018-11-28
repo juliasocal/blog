@@ -9,7 +9,9 @@ fields:
   config:
     date_format: YYYY-MM-DD
     required: true
+    time_format: h:mm A
   default: 2018-11-14 08:00:00 +0000
+  description: Date article published
 - type: tag_list
   name: tags
   label: Tags
