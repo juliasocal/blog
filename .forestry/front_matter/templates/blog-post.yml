@@ -25,3 +25,4 @@ fields:
   description: Add tags to make pages related
 pages:
 - content/posts/hello-world.md
+- content/posts/those-things-that-hurt-instruct.md
