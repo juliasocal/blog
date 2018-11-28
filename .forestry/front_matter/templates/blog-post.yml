@@ -23,5 +23,8 @@ fields:
   name: tags
   label: Tags
   description: Add tags to make pages related
+- type: text
+  label: Description
+  name: description
 pages:
 - content/posts/those-things-that-hurt-instruct.md
