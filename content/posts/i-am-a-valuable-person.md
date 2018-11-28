@@ -1,5 +1,5 @@
 +++
-date = "2018-11-14T08:00:00.000+00:00"
+date = "2018-11-27T08:00:00+00:00"
 description = "The feeling of being valuable - \"I am a valuable person\" - is essential to mental health and is a cornerstone of self-discipline. It is a direct product of parental love. "
 tags = ["the road less traveled ", "future mom "]
 title = "I Am A Valuable Person "
