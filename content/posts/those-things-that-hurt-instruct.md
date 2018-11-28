@@ -1,5 +1,5 @@
 +++
-date = "2018-11-14T08:00:00.000+00:00"
+date = "2018-11-24T08:00:00+00:00"
 description = "Problems are the cutting edge that distinguishes between success and failure. They create our courage and our wisdom. It's only because of problems that we grow mentally and spiritually."
 tags = ["the road less traveled ", "future mom "]
 title = "Those Things That Hurt, Instruct. "
