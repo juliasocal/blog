@@ -5,7 +5,7 @@ tags = ["the road less traveled ", "future mom "]
 title = "Those Things That Hurt, Instruct. "
 
 +++
-> "Those things that hurt, instruct" - Benjamin Franklin
+> "Those things that hurt, instruct" - Benjamin Franklin.
 
 > Problems are the cutting edge that distinguishes between success and failure. They create our courage and our wisdom. It's only because of problems that we grow mentally and spiritually. 
 
