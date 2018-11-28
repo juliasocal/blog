@@ -1,7 +1,7 @@
 +++
 date = "2018-11-14T08:00:00.000+00:00"
 description = "Delaying gratification is a process of scheduling the pain and pleasure of life in such a way as to enhance the pleasure by meeting and experiencing the pain first and getting it over with. "
-tags = []
+tags = ["future mom ", "future self"]
 title = "Delaying Gratification "
 
 +++
