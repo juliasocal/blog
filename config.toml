@@ -2,3 +2,11 @@ baseURL = "https://notestomyfutureself.org/"
 languageCode = "en-us"
 title = "Notes to my future self"
 theme = "cactus-plus"
+
+[params]
+    author = "Myself"
+	description = "Notes to my future self"
+
+	enableSummary = true
+	# Set the value to true if use description in post front matter replace content summary
+	useDescriptionReplaceSummary = false
