@@ -6,7 +6,9 @@ hidden = true
 
 ## About
 
-Hi, I am Yuliya. I am someone who wants to remember all the great advices from books, friends and my own life that may not be relevant today, but I believe that one day they will. Unfortunately, so often this valuable advices just melt away somewhere in my brain.
+Hi, I am Yuliya.
+
+I am someone who wants to remember all the great advices from books, friends and my own life that may not be relevant today, but I believe that one day they will. Unfortunately, so often this valuable advices just melt away somewhere in my brain.
 
 I am someone who wants to collect this advices and get back to them in my future, which can be already tomorrow.
 
