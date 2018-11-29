@@ -1,7 +1,7 @@
 +++
 date = "2018-11-28T08:00:00+00:00"
 description = "To willingly confront a problem early, before we are forced to confront it by circumstances, means to put aside something pleasant or less painful for something more painful. "
-tags = []
+tags = ["future mom ", "the road less traveled "]
 title = "Confronting Problems Is Painful "
 
 +++
