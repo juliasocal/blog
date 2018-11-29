@@ -1,7 +1,7 @@
 +++
 date = "2018-11-28T08:00:00+00:00"
-description = ""
-tags = []
+description = "Sometimes I find myself rushing through a problem I need to solve and I end up not being satisfied with the solution or myself. I would think that I am not good enough to solve this problem. "
+tags = ["future mom ", "the road less traveled "]
 title = "Take The Time "
 
 +++
