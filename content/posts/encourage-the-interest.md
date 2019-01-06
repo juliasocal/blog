@@ -1,7 +1,7 @@
 +++
-date = "2018-11-14T08:00:00.000+00:00"
-description = ""
-tags = []
+date = "2019-01-05T08:00:00+00:00"
+description = "Pay attention to what my kid is interested in. Encourage it and provide tools to reveal the interest. "
+tags = ["future mom "]
 title = "Encourage The Interest "
 
 +++
