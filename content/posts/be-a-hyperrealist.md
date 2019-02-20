@@ -1,7 +1,7 @@
 +++
 date = "2019-02-19T08:00:00+00:00"
 description = "Being hyperrealistic will help you choose your dreams wisely and then achieve them."
-tags = ["Future self "]
+tags = ["Future self ", "principles "]
 title = "Be A Hyperrealist "
 
 +++
